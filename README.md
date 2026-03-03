@@ -1,9 +1,6 @@
 # Hi, I’m Gerry Satria Halim
 I really enjoy everything related to backend development and mobile application development.
 
-## 📊 Language stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerrysatriaH&layout=compact)
-
 ## 🧠 My Skill Set
 
 ### Web Development
