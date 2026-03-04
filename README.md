@@ -1,5 +1,5 @@
 # Hi, I’m Gerry Satria Halim
-I really enjoy everything related to backend development and mobile application development.
+Informatics Engineering student with experience in web, mobile, and desktop application development. Hands-on experience developing systems using ASP.NET, Android (Kotlin), and Visual Basic .NET through industrial internships and certified programs. Proven ability to support digitalization of business and operational processes in manufacturing environments.
 
 ## 🧠 My Skill Set
 
