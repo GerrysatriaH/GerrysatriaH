@@ -15,7 +15,6 @@ Informatics Engineering student with experience in web, mobile, and desktop appl
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-e66e19?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-cc0606?style=for-the-badge&logo=laravel&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Mobile Development (Android)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
